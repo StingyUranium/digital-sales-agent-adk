@@ -1,3 +1,11 @@
+# ADK Voice Sales Agent
+
+A persuasive, voice-ready AI sales assistant built with [Google ADK](https://github.com/google/agent-development-kit).  
+This assistant delivers ROI-driven pitches for digital transformation projects, using a consultative selling style.
+
+---
+
+
 # Voice Agent Project
 
 This project is a Python-based voice agent application located in the `app/` directory. It is designed to run in a virtual environment, with dependencies and scripts managed in the `voice/` directory.
