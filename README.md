@@ -19,11 +19,6 @@ app/
     agent.py
     project.txt
     __pycache__/
-voice/
-    pyvenv.cfg
-    Include/
-    Lib/
-    Scripts/
 ```
 
 - **app/**: Contains the main application code.
@@ -38,12 +33,13 @@ voice/
 
    On Windows:
    ```sh
-   voice\Scripts\activate
+   python -m venv venv
+   .\venv\Scripts\Activate
    ```
 
    On Unix or MacOS:
    ```sh
-   source voice/Scripts/activate
+   source venv/bin/activate
    ```
 
 2. **Install Dependencies**
